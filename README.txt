@@ -1,7 +1,7 @@
 README for Cryptography Visualizer
 Overview
 This Cryptography Visualizer is a web application designed to demonstrate and educate users on basic cryptographic methods, including the Caesar Cipher and AES encryption. The application is divided into different sections: Home, How To, Caesar Cipher, and AES Encryption.
-
+ Github Hosted Site https://joshuaannor.github.io/Cryptography/
 Files Included
 index.html - The homepage of the application.
 how-to.html - Instruction page on how to use the application.
@@ -11,6 +11,7 @@ styles.css - Stylesheet for the application.
 pure.js - JavaScript file containing the logic for encryption and decryption.
 
 How to Run the Application
+
 Extract Files: If you received these files in a zip folder, extract them to a directory of your choice.
 
 Open in a Browser: Open index.html(double clicking or right clicking open with preferd browser should work) in a modern web browser like Google Chrome, Mozilla Firefox, or Microsoft Edge.
